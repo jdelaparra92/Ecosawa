@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.principal{
+    font-weight: 900;
+    font-size: 6rem;
+    color: white;
+}
+.principald{
+    font-weight: 900;
+    font-size: 5rem;
+    color: #5b5b5b;
+}
+main{
+    background-image: url("img/fondo1-01.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15% 15%;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.flexx{
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    gap: 20px;
+}
+.flexC{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column;
+}
+.sectionUno div{
+width: 50%;
+background-color:#537856 ;
+height: 100%;
+padding: 7% 7%;
+}
+.sectionUno img{
+    width: 50%;
+    }
+    .sectionUno{
+        background-color:#537856 ;
+        }
+
+.subtitulo{
+    font-size: 42px;
+    font-weight:900 ;
+    color: white;
+    }
+    .subtituloT{
+        font-size: 30px;
+        font-weight:900 ;
+        color: white;
+        }
+        .subtituloTt{
+            font-size: 30px;
+            font-weight:900 ;
+            color: #5b5b5b;
+            }
+    .subtituloDos{
+        font-size: 3.5rem;
+        font-weight:900 ;
+        color: #5b5b5b;
+        }
+        .subtituloDosF{
+            font-size: 39px;
+            font-weight:200 ;
+            color: #5b5b5b;
+            }
+    .parrafo{
+        font-weight:400 ;
+        font-size: 20px;
+        color: white;
+    }
+    .pet{
+        font-family: "Petit Formal Script", serif;
+        font-size: 6rem;
+    }
+    .parrafoG{
+        font-weight:400 ;
+        font-size: 20px;
+        color: #5b5b5b;
+    }
+
+    .sectionDos div{
+        width: 50%;
+        height: 100%;
+        padding: 7% 7%;
+        }
+        .sectionDos img{
+            width: 50%;
+            }
+            .sectionDos{
+                background-color:#b3d6b5 ;
+                padding: 3% 3%;
+                }
+.verde{
+    color: #537856;
+}
+
+.page{
+    width: 500px;
+}
+.sectionTres img{
+    width: 40%;
+    }
+    .sectionTres{
+        
+        padding: 3% 3%;
+        }
+
+        .boton{
+            background-color: #8cc541;
+            color: white;
+            padding: 10px 17px;
+            border-radius: 15px;
+            text-decoration: none;
+        }
+        .botonD{
+            background-color: #8cc541;
+            color: white;
+            padding: 10px 17px;
+            border-radius: 15px;
+            text-decoration: none;
+            font-size: 4rem;
+        }
+
+        .sectionDos div img{
+            width: 100%;
+            }
+
+            .w100{
+                width: 100%;
+            }
+            .w60{
+                width: 60%;
+            }
+            .flexx .icon{
+                width: 50px;
+            }
+
+            .tc{
+                text-align: center;
+            }
+
+            .sectionCuatro{
+                background-color:#b3d6b5 ;
+                padding: 10%;
+            }
